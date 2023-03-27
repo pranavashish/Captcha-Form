@@ -4,7 +4,7 @@
 
 #2 Display the captcha on the sign-up form by creating an HTML element like a <div> or <span>, and setting the innerHTML property to the randomly generated captcha string.
 
-#3 Include an input field for the user to enter the captcha text. You can use the <input> element and set its type attribute to text.
+#3 Include an input field for the user to enter the captcha text. You can use the <input> element and set its type attribute - text.
 
 #4 Upon form submission, verify the user's input against the generated captcha string. You can compare the input text to the generated captcha string with an if statement.
 
